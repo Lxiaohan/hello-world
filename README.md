@@ -1,6 +1,6 @@
 # hello-world
-Just another repository
-Dynamische System 
+- Just another repository
+- Dynamische System 
 Batteriespeicher
 Grundlage der Volkswirtschaftslehre
 Information Theory
